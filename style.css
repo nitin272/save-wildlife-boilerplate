@@ -30,11 +30,20 @@ nav,
   background-color: black;
   height: 60px;
   /* Your code goes here */
+   display:flex;
+  justify-content : space-evenly;
 }
 
 .container {
   width: 500px;
   /* Your code goes here */
+    display: flex;
+  justify-content: space-evenly;
+  margin-left: auto;
+  margin-right: auto;
+  
+  align-items: center;
+
 }
 
 .button {
